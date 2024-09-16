@@ -50,7 +50,7 @@ The main logic for chat will be found in the `Chat` component in `app/components
 
 ### Pages
 
-- Basic Chat Example: [http://localhost:3000/examples/basic-chat](http://localhost:3000/examples/basic-chat)
+- Chat Example: [http://localhost:3000/examples/chat](http://localhost:3000/examples/chat)
 - Function Calling Example: [http://localhost:3000/examples/function-calling](http://localhost:3000/examples/function-calling)
 - File Search Example: [http://localhost:3000/examples/file-search](http://localhost:3000/examples/file-search)
 - Full-featured Example: [http://localhost:3000/examples/all](http://localhost:3000/examples/all)
